@@ -1,8 +1,9 @@
 # Getting Started with NPM package
 
-# publish npm package
+## publish npm package
 ### 1)  npm install --save-dev @babel/cli @babel/preset-react
-# 2) edit your package.json
+
+### 2) edit your package.json
 ```
 {
 ...,
@@ -32,7 +33,14 @@
 }
 ```
 
-# 3) Create or Login npm Account
-# 4) npm login
-# 5) npm run publish:npm
-# 6) npm publish
+### 3) Create or Login npm Account
+
+### 4) npm login
+
+### 5) npm run publish:npm
+
+### 6) npm publish
+
+
+
+
