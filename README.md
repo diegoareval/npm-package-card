@@ -1,19 +1,19 @@
 # Getting Started with NPM package
 
 ## publish npm package
-### 1)  npm install --save-dev @babel/cli @babel/preset-react
+### 1)  `npm install --save-dev @babel/cli @babel/preset-react`
 
-### 2) edit your package.json
+### 2) Edit your package.json
 
 ```javascript
   {
   
-  "private": false,
-  "babel": {
-    "presets": [
-      "@babel/preset-react"
-    ]
-  },
+    "private": false,
+    "babel": {
+      "presets": [
+        "@babel/preset-react"
+      ]
+    },
     "dependencies": {
       ...
     },
